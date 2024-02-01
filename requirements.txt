@@ -1,0 +1,12 @@
+asgiref
+coverage
+Django
+djangorestframework
+drf-spectacular
+gunicorn
+importlib-metadata
+psycopg2-binary
+pytest
+pytest-cov
+pytest-django
+typing-extensions
