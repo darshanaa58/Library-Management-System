@@ -40,7 +40,7 @@ python manage.py runserver 9000
 --------------------------
 
 ```bash
-make test/python manage.py test management_system.tests
+make test or python manage.py test management_system.tests
 ```
 
 
