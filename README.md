@@ -21,7 +21,7 @@ make migrate
 make run
 ```
 
-You can go to `localhost:{PORT_NUMBER}` to access the backend application.
+You can go to `localhost:9000` to access the backend application.
 
 
 ### How to run tests
